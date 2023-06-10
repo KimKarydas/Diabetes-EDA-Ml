@@ -39,6 +39,7 @@ Based on the analysis, the accuracy scores for the different machine learning mo
 - Decision Tree: 0.633
 - Random Forest: 0.719
 - Support Vector Machine (SVM): 0.719
+
 The Linear Regression model achieved the highest accuracy score among the models evaluated, indicating its better performance in predicting diabetes compared to the others.
 
 **Conclusion**
